@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.4)
+project( createBlankImage )
+find_package( OpenCV REQUIRED )
+add_executable( blankImage source.cpp )
+target_link_libraries( blankImage ${OpenCV_LIBS} )

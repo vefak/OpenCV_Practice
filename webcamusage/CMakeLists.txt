@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.4)
+project( WebcamUsage )
+find_package( OpenCV REQUIRED )
+add_executable( WebcamUsage webcamusage.cpp )
+target_link_libraries( WebcamUsage ${OpenCV_LIBS} )
