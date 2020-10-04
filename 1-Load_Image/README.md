@@ -36,9 +36,3 @@ make
 
 _Press any key to close window._
 
-
-
-### References
----
-
-1. OpenCV Docs:   [Link](https://docs.opencv.org/4.4.0/)
