@@ -1,4 +1,3 @@
-
 /*
  * Lesson 1 -- Load Image
  * This example shows how to open local image
@@ -6,12 +5,10 @@
  *  
  */
 
-
+// Import libraries
 #include <opencv2/core.hpp>
 #include <opencv2/highgui.hpp>
-
 #include <iostream>
-
 
 using namespace cv;
 using namespace std;
