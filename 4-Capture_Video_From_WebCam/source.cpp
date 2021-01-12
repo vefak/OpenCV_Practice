@@ -41,7 +41,7 @@ int main(int argc, char* argv[])
 	
 	bool isColor = (src.type() == CV_8UC3); //Input image color
 	VideoWriter writer; // VideoWriter object
-	int cod = VideoWriter::fourcc('M','J','P','G'); // //Desired codec
+	int cod = VideoWriter::fourcc('M','J','P','G');// Desired codec
 	double fps = 30; // frame per second
 	string videoname = "./video.avi"; // name of the output video file
 	writer.open(videoname,cod,fps,src.size(),isColor);
