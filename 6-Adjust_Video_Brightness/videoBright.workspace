@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<CodeLite_Workspace Name="videoBright">
-	<Project Name="videoBright" Path="videoBright.project" Active="No"/>
-	<BuildMatrix>
-		<WorkspaceConfiguration Name="NoConfig" Selected="yes">
-			<Project Name="videoBright" ConfigName="NoConfig"/>
-		</WorkspaceConfiguration>
-	</BuildMatrix>
-</CodeLite_Workspace>

@@ -1,3 +1,0 @@
-/home/makman4/OpenCV_Practice/6-Adjust_Video_Brightness/CMakeFiles/rebuild_cache.dir
-/home/makman4/OpenCV_Practice/6-Adjust_Video_Brightness/CMakeFiles/videoBright.dir
-/home/makman4/OpenCV_Practice/6-Adjust_Video_Brightness/CMakeFiles/edit_cache.dir
