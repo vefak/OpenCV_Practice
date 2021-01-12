@@ -1,3 +1,0 @@
-/home/makman4/OpenCV_Practice/3-Streaming_Local_Video/CMakeFiles/rebuild_cache.dir
-/home/makman4/OpenCV_Practice/3-Streaming_Local_Video/CMakeFiles/streamVideo.dir
-/home/makman4/OpenCV_Practice/3-Streaming_Local_Video/CMakeFiles/edit_cache.dir
