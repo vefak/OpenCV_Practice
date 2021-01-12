@@ -19,7 +19,7 @@ int main(int argc, char** argv)
 	
 	if (!vid.isOpened()){ //Checking the video file
 		cout << "File is missing!" << endl;
-	
+	}
 
 	double fps = vid.get(CAP_PROP_FPS); //Getting FPS value of video by using get() function
 	cout << "frame per second: " << fps << endl; 
