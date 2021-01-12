@@ -43,6 +43,8 @@ make
 ./streamVideo
 ```
 
+<img src="./img/img.png"  height ="40%" width="60%">
+
 ### References
 [1] [VideoCapture Class Reference](https://docs.opencv.org/3.4/d8/dfe/classcv_1_1VideoCapture.html)
 
