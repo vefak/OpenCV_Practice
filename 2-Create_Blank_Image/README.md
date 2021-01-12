@@ -12,12 +12,10 @@ Mat img(480, 640, CV_8UC3, Scalar(0, 0, 0));
 - Scalar(0,0,0): Color definition. Change numbers to get different colors. Since the image is encoded in 8-bit, the number of values can be given is 256. So the value for single channel must be in 0-255
 
 ```cpp
-
  Scalar(255, 0, 0) // Blue
  Scalar(0, 255, 0) // Green
  Scalar(0, 0, 255) // Red
  Scalar(255, 255, 255) // White
-
 ```
 
 ### Build & Run
