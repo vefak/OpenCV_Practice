@@ -1,0 +1,3 @@
+/home/makman4/OpenCV_Practice/9-Trackbar/CMakeFiles/rebuild_cache.dir
+/home/makman4/OpenCV_Practice/9-Trackbar/CMakeFiles/trackbar.dir
+/home/makman4/OpenCV_Practice/9-Trackbar/CMakeFiles/edit_cache.dir
