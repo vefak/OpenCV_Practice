@@ -42,6 +42,5 @@ int main(int argc, char** argv)
 			break;
 		}
 	}
-	system("Pause");
 	return 0;
 }
