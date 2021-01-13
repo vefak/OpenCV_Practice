@@ -4,14 +4,11 @@
  * Author: Vefak Murat Akman
  *  
  */
-
-// Import libraries
 #include <opencv2/core.hpp>
 #include <opencv2/highgui.hpp>
 #include <opencv2/videoio.hpp>
 #include <stdio.h>
 #include <iostream>
-
 using namespace cv;
 using namespace std;
 

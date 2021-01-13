@@ -8,7 +8,6 @@
 // Import libraries
 #include <opencv2/core.hpp>
 #include <opencv2/highgui.hpp>
-#include <opencv2/videoio.hpp>
 #include <stdio.h>
 #include <iostream>
 
@@ -19,10 +18,11 @@ using namespace std;
 int main(int argc, char** argv)
 {
 	Mat res = imread("./img/dog.jpeg");
+	// Get size of input image
 	int height = res.size().height;
 	int width = res.size().width;
-	if (res.empty())
-	{
+	// Check image asset
+	if (res.empty()){
 		cout << "ERROR! Unable to open image " << endl;
 		return -1;
 	}
