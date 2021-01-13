@@ -20,9 +20,7 @@ int main(int argc, char** argv)
 	
 	if (img.empty()) //check whether the image is loaded or not
 	{
-		cout << "Error : Image cannot be loaded..!!" << endl;
-		system("pause"); //wait until a keypress
-		
+		cout << "Error : Image cannot be loaded..!!" << endl;		
 		return -1;
 	}
 
@@ -30,7 +28,6 @@ int main(int argc, char** argv)
 	imshow("MyWindow", img); //display the image on the "MyWindow" window
 
 	waitKey(0); //wait until a keypress
-
 	destroyWindow("MyWindow"); //destroy the window with the name, "MyWindow"
 
 	return 0;
