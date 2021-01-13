@@ -1,5 +1,5 @@
 /*
- * Lesson 9-- Trackbar
+ * Lesson 12-- Trackbar
  * OpenCV provides some GUI utilities (highgui.hpp)
  * You can modify images by using this GUI
  * 
