@@ -1,0 +1,3 @@
+/home/makman4/OpenCV_Practice/13-Trackbar_Callback/CMakeFiles/rebuild_cache.dir
+/home/makman4/OpenCV_Practice/13-Trackbar_Callback/CMakeFiles/callbacktrach.dir
+/home/makman4/OpenCV_Practice/13-Trackbar_Callback/CMakeFiles/edit_cache.dir
