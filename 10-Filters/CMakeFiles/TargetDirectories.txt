@@ -1,0 +1,3 @@
+/home/makman4/OpenCV_Practice/9-Blurring/CMakeFiles/rebuild_cache.dir
+/home/makman4/OpenCV_Practice/9-Blurring/CMakeFiles/blur.dir
+/home/makman4/OpenCV_Practice/9-Blurring/CMakeFiles/edit_cache.dir
