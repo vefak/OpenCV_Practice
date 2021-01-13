@@ -1,5 +1,5 @@
 /*
- * Lesson 10-- Morphological Operation
+ * Lesson 11-- More Morphological Operation
  * Opening
  * Closing
  * Morphological Gradient
