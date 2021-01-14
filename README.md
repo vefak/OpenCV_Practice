@@ -1,4 +1,8 @@
-# OpenCV_CPP_Practice
+# OpenCV Practices
+
+OpenCV 4
+C++
+
 
 ### UNDER CONSTRUCTION ###
 
