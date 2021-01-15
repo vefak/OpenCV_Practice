@@ -1,3 +1,0 @@
-/home/vefak/webcamusage/CMakeFiles/rebuild_cache.dir
-/home/vefak/webcamusage/CMakeFiles/WebcamUsage.dir
-/home/vefak/webcamusage/CMakeFiles/edit_cache.dir

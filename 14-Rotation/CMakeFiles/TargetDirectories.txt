@@ -1,3 +1,0 @@
-/home/makman4/OpenCV_Practice/14-Rotation/CMakeFiles/rebuild_cache.dir
-/home/makman4/OpenCV_Practice/14-Rotation/CMakeFiles/rot.dir
-/home/makman4/OpenCV_Practice/14-Rotation/CMakeFiles/edit_cache.dir
