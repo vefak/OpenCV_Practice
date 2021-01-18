@@ -24,3 +24,8 @@ This repo contains some OpenCV 4 tutorials. With these tutorials, people can lea
 
 
 <div style="text-align:center"><img src="./logo.png"  height ="35%" width="35%">
+  
+  
+### Acknowledgement
+I would like to thank my friend, [Kemal Talha Koc](https://talhakoc.net/) for his wonderful contribution and valuable guidance throughout my computer vision studies
+
