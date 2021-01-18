@@ -1,4 +1,4 @@
-## OpenCV 4 Practices
+## OpenCV 4 Tutorials
 ---
 *Vefak Murat Akman* 
 
